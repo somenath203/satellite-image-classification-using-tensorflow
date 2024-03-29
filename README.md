@@ -7,7 +7,7 @@ The aim of this project is to classify satellite images into their respective ca
 
 The dataset used in this project is taken from kaggle: https://www.kaggle.com/datasets/mahmoudreda55/satellite-image-classification
 
-## Models used in this project
+## Model used in this project
 
 The model used for prediction is **Pre-trained resnet101 model**. The training accuracy of the model is around **99.87%** and the testing accuracy is around **99.50%**.
 
