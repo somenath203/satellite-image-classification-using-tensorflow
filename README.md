@@ -17,7 +17,7 @@ The deep learning model of this project is connected with an application created
 
 ## Links
 
-Live Preview: https://huggingface.co/spaces/som11/satellite_image_classification
+Live Preview: https://som11-satellite-image-classification.hf.space/
 
 ## Warning
 While the model of this project can classify images correctly, but in some cases, the model may misclassify the images, therefore, it is strongly advised not to rely solely on the output of this model.
